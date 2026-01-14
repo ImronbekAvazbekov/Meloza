@@ -30,5 +30,18 @@ The app supports background playback and continues playing music even when the a
 ## App Behavior
 - Music continues playing when the app is in the background or closed
 - Playback is managed via foreground service for reliability
+
 ## Project Status
 Demo / learning project
+
+## APK
+Download apk from the `apk/` directory and test the application.
+
+## Screenshots
+
+<p align="center">
+  <img src="screenshots/photo_1_2026-01-14_21-32-16.jpg" width="250" />
+  <img src="screenshots/photo_2_2026-01-14_21-32-16.jpg" width="250" />
+  <img src="screenshots/photo_3_2026-01-14_21-32-16.jpg" width="250" />
+  <img src="screenshots/photo_4_2026-01-14_21-32-16.jpg" width="250" />
+</p>
